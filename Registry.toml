@@ -1,0 +1,6 @@
+name = "LaskaRegistry"
+uuid = "8b52f866-a0b4-48aa-8fba-b629886c04a2"
+repo = "https://github.com/Laska-jl/LaskaRegistry.git"
+description = "Registry for packages in the 'Laska' family"
+
+[packages]
