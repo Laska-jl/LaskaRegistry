@@ -4,3 +4,4 @@ repo = "https://github.com/Laska-jl/LaskaRegistry.git"
 description = "Registry for packages in the 'Laska' family"
 
 [packages]
+9ad29ce2-7782-4744-ab48-6ef9cc0286bb = { name = "LaskaCore", path = "L/LaskaCore" }
