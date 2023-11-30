@@ -8,6 +8,8 @@ Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 ["0-0.0.1"]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 
-["0.0.3-0"]
+["0.0.3"]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
+["0.0.3-0"]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
