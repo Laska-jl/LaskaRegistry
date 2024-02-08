@@ -5,3 +5,6 @@ LaskaPlot = "47311fc3-b5d5-4c44-b326-9386a1fd4d79"
 LaskaStats = "de767ba9-e829-4e7c-bf82-062dc00bf36c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+["1.0.2-1"]
+LaskaML = "d6708ae0-4b55-458f-8870-0c194c171497"
