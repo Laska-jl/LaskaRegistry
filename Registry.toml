@@ -7,5 +7,6 @@ description = "Registry for packages in the 'Laska' family"
 47311fc3-b5d5-4c44-b326-9386a1fd4d79 = { name = "LaskaPlot", path = "L/LaskaPlot" }
 70ecd02f-8eb3-408d-af21-2fa0c4fa45fc = { name = "Laska", path = "L/Laska" }
 9ad29ce2-7782-4744-ab48-6ef9cc0286bb = { name = "LaskaCore", path = "L/LaskaCore" }
+a627b554-171b-40fd-98ba-d667562ed0bb = { name = "LaskaClustering", path = "L/LaskaClustering" }
 d6708ae0-4b55-458f-8870-0c194c171497 = { name = "LaskaML", path = "L/LaskaML" }
 de767ba9-e829-4e7c-bf82-062dc00bf36c = { name = "LaskaStats", path = "L/LaskaStats" }
