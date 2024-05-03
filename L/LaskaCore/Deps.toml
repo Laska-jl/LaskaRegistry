@@ -6,5 +6,7 @@ NPZ = "15e1cf62-19b3-5cfa-8e77-841668bca605"
 
 ["0.0.6-0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
-LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+["0.0.6-0.1.5"]
+LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
